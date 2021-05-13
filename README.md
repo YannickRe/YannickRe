@@ -23,22 +23,22 @@ He always asks the important questions: How does it work? What do you want to ac
 
 ## Find me
 <p align='center'>
-   <a href="https://blog.yannickreekmans.be" title="Website Yannick Reekmans">
+   <a href="https://blog.yannickreekmans.be" title="Website Yannick Reekmans" style="text-decoration: none;">
      <img src="https://img.shields.io/badge/Blog-%232c3036.svg?&style=for-the-badge&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/eliostruyf">
+  <a href="https://twitter.com/yannickreekmans" style="text-decoration: none;">
      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/estruyf">
+  <a href="https://www.linkedin.com/in/yannickreekmans" style="text-decoration: none;">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003400" title="MVP Profile Yannick Reekmans">
      <img src="https://img.shields.io/badge/MVP-Office%20Development-%231570a6.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.qubix.be" title="Qubix">
+  <a href="https://www.qubix.be" title="Qubix" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Qubix-%2357fc55.svg?&style=for-the-badge" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.keos.be" title="KEOS">
+  <a href="https://www.keos.be" title="KEOS" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/KEOS-%23ed5e25.svg?&style=for-the-badge" />        
   </a>
 </p>
