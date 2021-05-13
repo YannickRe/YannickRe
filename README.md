@@ -1,15 +1,47 @@
-<h1 align="center">Hi 👋, I'm Yannick Reekmans</h1>
+# Heya, I'm Yannick Reekmans 🚀
 <h3 align="center">Microsoft 365 Solution Architect | Microsoft Office Development MVP</h3>
 
-- 🔭 I’m working at [Qubix](https://www.qubix.be)
+## About me
+Yannick ([a Microsoft Office Development MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003400)) is born and raised in SharePoint, starting out his career in 2011 when SharePoint 2010 was still new and shiny. The changing reality of the cloud made him expand his knowledge to the whole of Office 365 and Azure, but SharePoint and Microsoft Teams are still his focus areas. 
 
-- 📝 I regulary write articles on [https://blog.yannickreekmans.be](https://blog.yannickreekmans.be)
+He is a Managing Partner and Cloud Solution Architect at [Qubix](https://www.qubix.be), a Belgium-based consultancy firm, responsible for the technical underpinnings of products and solutions.
+He owns [KEOS](https://www.keos.be), a management company to support his independent work.
 
-- 💬 Ask me about **Microsoft 365, SharePoint Development, Microsoft Teams (Development)**
+Problem solving and development are his passion, still working day to day with code. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yannickreekmans" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yannickreekmans" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yannickreekmans" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yannickreekmans" height="30" width="40" /></a>
-<a href="/https://feedly.com/i/subscription/feed/https://blog.yannickreekmans.be/rss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://feedly.com/i/subscription/feed/https://blog.yannickreekmans.be/rss/" height="30" width="40" /></a>
+He always asks the important questions: How does it work? What do you want to achieve? Do we really need development for this? Where's the coffee?
+
+## About me, the tldr;  
+:belgium: Belgium-based  
+🏆 [Microsoft Office Development MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003400)  
+🔭 Managing Partner and Cloud Solution Architect at [Qubix](https://www.qubix.be)  
+💰 Owner of [KEOS](https://www.keos.be)  
+📝 Blog at [https://blog.yannickreekmans.be](https://blog.yannickreekmans.be)  
+🐣 Tweet at [@YannickReekmans](https://twitter.com/YannickReekmans)  
+🎤 Speak at wherever they give him a stage and an audience  
+💬 Ask me about **Microsoft 365, SharePoint Development, Microsoft Teams (Development)**
+
+## Find me
+<p align='center'>
+   <a href="https://blog.yannickreekmans.be" title="Website Yannick Reekmans">
+     <img src="https://img.shields.io/badge/Blog-%232c3036.svg?&style=for-the-badge&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/eliostruyf">
+     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/estruyf">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003400" title="MVP Profile Yannick Reekmans">
+     <img src="https://img.shields.io/badge/MVP-Office%20Development-%231570a6.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.qubix.be" title="Qubix">
+    <img src="https://img.shields.io/badge/Qubix-%2357fc55.svg?&style=for-the-badge" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.keos.be" title="KEOS">
+    <img src="https://img.shields.io/badge/KEOS-%23ed5e25.svg?&style=for-the-badge" />        
+  </a>
 </p>
+
+## Github stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YannickRe&count_private=true&theme=neon-dark&hide_border=true)
