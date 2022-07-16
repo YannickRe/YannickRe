@@ -1,8 +1,8 @@
 # Heya, I'm Yannick Reekmans 🚀
-<h3 align="center">Microsoft 365 Solution Architect | Microsoft Office Development MVP</h3>
+<h3 align="center">Microsoft Cloud Solution Architect | Business Applications & Microsoft 365 Development MVP</h3>
 
 ## About me
-Yannick ([a Microsoft Office Development MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003400)) is born and raised in SharePoint, starting out his career in 2011 when SharePoint 2010 was still new and shiny. The changing reality of the cloud made him expand his knowledge to the whole of Office 365 and Azure, but SharePoint and Microsoft Teams are still his focus areas. 
+Yannick ([a Microsoft 365 Development & Business Applications MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003400)) is born and raised in SharePoint, starting out his career in 2011 when SharePoint 2010 was still new and shiny. The changing reality of the cloud made him expand his knowledge to the whole of Office 365 and Azure, but SharePoint and Microsoft Teams are still his focus areas. 
 
 He is a Managing Partner and Cloud Solution Architect at [Qubix](https://www.qubix.be), a Belgium-based consultancy firm, responsible for the technical underpinnings of products and solutions.
 He owns [KEOS](https://www.keos.be), a management company to support his independent work.
@@ -13,13 +13,13 @@ He always asks the important questions: How does it work? What do you want to ac
 
 ## About me, the tldr;  
 :belgium: Belgium-based  
-🏆 [Microsoft Office Development MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003400)  
+🏆 [Microsoft 365 Development & Business Applications MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003400)  
 🔭 Managing Partner and Cloud Solution Architect at [Qubix](https://www.qubix.be)  
 💰 Owner of [KEOS](https://www.keos.be)  
 📝 Blog at [https://blog.yannickreekmans.be](https://blog.yannickreekmans.be)  
 🐣 Tweet at [@YannickReekmans](https://twitter.com/YannickReekmans)  
 🎤 Speak at wherever they give him a stage and an audience  
-💬 Ask me about **Microsoft 365, SharePoint Development, Microsoft Teams (Development)**
+💬 Ask me about **Microsoft 365, SharePoint Development, Microsoft Teams (Development), Power Platform (Power Automate, Power Apps, Dataverse, ALM, ...)**
 
 ## Find me
 <p align='center'>
